@@ -1,4 +1,4 @@
-![burger website home page](https://github.com/Mayankd31/Buger-Website/assets/114990481/c47c0e94-2d5c-4c9a-a6a1-1a5ec483b090)Responsive Burger Website
+Responsive Burger Website
 
 Overview
 This project is a responsive burger website that I created to enhance my frontend development skills. It's built using HTML for structure, Tailwind CSS for styling, and JavaScript for interactivity.
